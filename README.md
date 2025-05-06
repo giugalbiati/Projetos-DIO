@@ -1,8 +1,8 @@
-Sobre este repositório 💻:
-Repositório destinado aos Projetos desenvolvidos nos Cursos oferecidos pela Digital Innovation One (DIO).
+## Sobre este repositório 💻:
+Repositório destinado aos Projetos desenvolvidos nos Cursos oferecidos pela Digital Innovation One `(DIO)`.
 
-Cursos 📚:
-- Lógica de Programação
+## Cursos 📚:
+- <strong>`Lógica de Programação`</strong>
 
-Linguagens utilizadas ⚒️:
-- JavaScript
+## Linguagens utilizadas ⚒️:
+- <strong>`JavaScript`</strong>
