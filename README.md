@@ -5,4 +5,4 @@ Repositório destinado aos Projetos desenvolvidos nos Cursos oferecidos pela Dig
 - <strong>`Lógica de Programação`</strong>
 
 ## Linguagens utilizadas ⚒️:
-- <strong>`JavaScript`</strong>
+<img align="center" alt="Giu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
