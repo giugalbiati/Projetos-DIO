@@ -1,6 +1,7 @@
 // 2️⃣ Calculadora de partidas Rankeadas
 
 let saldo = subtrair(100, 9)
+let nivel;
 
 function subtrair(vitorias, derrotas){
     let resultado = vitorias - derrotas
