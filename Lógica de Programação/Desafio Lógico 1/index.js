@@ -1,4 +1,4 @@
-// 1️⃣ Desafio Classificador de nível de Herói FELIPÃO
+// 1️⃣ Desafio Classificador de nível de Herói
 
 let nomeDoHeroi = "Lilith"
 let xpHeroi = 9.880 
